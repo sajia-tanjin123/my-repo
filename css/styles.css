@@ -1,0 +1,15 @@
+.p1{
+    background-color: aquamarine;
+    border: solid;
+}
+.p2{
+    background-color: blueviolet;
+    border: dotted;
+}
+.p3{
+    background-color: aqua;
+    border-bottom: solid;
+}
+a{
+    text-decoration:none ;
+}
